@@ -1,3 +1,5 @@
+# © 2025 M26I - For educational/portfolio use only
+
 import torch
 from diffusers import StableDiffusionPipeline
 from pathlib import Path
